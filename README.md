@@ -1,7 +1,7 @@
 <h2>Oiii! Sou Lucas Barbosa e aqui estão alguma informações sobre meu perfil pessoal</h2>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FL3U1Z&show_icons=true&theme=tokyonight" alt="Lucabmelo" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FL3U1Z&layout=compact&langs_count=16&theme=tokyonight" alt="Lucabmelo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasBarbosaMelo&show_icons=true&theme=tokyonight" alt="LucasBarbosaMel" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBarbosaMel&layout=compact&langs_count=16&theme=tokyonight" alt="LucasBarbosaMel" />
 </div>
 
 
