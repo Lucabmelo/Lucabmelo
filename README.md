@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2>Oiii! Sou Lucas Barbosa e aqui estão alguma informações sobre meu perfil pessoal</h2>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucabmelo&show_icons=true&theme=tokyonight" alt="Lucabmelo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucabmelo&layout=compact&langs_count=16&theme=tokyonight" alt="Lucabmelo" />
+</div>
 
-<!--
-**Lucabmelo/Lucabmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##
+- 🔭 Atualmente estudando Programação!
+- 🌱 Estou estudando Front JS, IA e Azure 
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.linkedin.com/in/lucas-barbosa-melo-98a0b2234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lucas_bmelo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
